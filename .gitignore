@@ -1,0 +1,11 @@
+backend/node_modules/
+frontend/node_modules/
+
+backend/.env
+frontend/.env
+
+backend/temp-uploads/
+
+dist/
+build/
+dataset/customers.csv
